@@ -82,5 +82,5 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ## 贡献
 
-如果您喜欢此项目，请考虑给我们一个星标（star）！
+如果您喜欢此项目，请考虑给我们一个星标（star）！⭐
 
